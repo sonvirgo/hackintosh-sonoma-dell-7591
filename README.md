@@ -1,0 +1,1 @@
+# hackintosh-sonoma-dell-7591
